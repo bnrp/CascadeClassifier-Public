@@ -1,6 +1,8 @@
 # Cascade Classifier
 <img src="https://github.com/bnrp/CascadeClassifier-Public/blob/main/Output%20Images/Figures/ModelDiagram.png" alt="Cascade Head Diagram">
 
+Note: this is a public version of this repository, and does not contain all files used or created throughout the duration of this project.
+
 ## Steps to install and start running
 
 1. Clone this repo to the desired spot. We assume that python installation is complete.
